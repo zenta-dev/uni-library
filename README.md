@@ -1,4 +1,4 @@
-# Library Management System ♎
+# Uni Library ♎
 ## ✨ _Management system for managing books in the library_ ✨
 > Library system using flutter and PHP native.
 
